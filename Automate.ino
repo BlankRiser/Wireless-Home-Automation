@@ -11,9 +11,9 @@ const int R3  = 0;            // Output Relay 1 GPI0 00 (D3)
 
 Servo servo;
 
-char auth[] = "dvMQZS-B5xUDFIz890cdIJ1cCTmfkmM4";
-char ssid[] = "ROGUE";
-char pass[] = "themselves";
+char auth[] = "auth_from_Blynk";
+char ssid[] = "WiFi_Name";
+char pass[] = "WiFi_Password";
 
 void setup()
 {
