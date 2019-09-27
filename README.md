@@ -44,7 +44,7 @@
 
 ## Circuit diagram
 
-![circuit](Images\circuit.PNG)
+![circuit](https://github.com/BlankRiser/Wireless-Home-Automation/blob/master/Images/circuit.PNG?raw=true)
 
 
 
