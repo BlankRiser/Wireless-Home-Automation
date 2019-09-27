@@ -44,7 +44,7 @@
 
 ## Circuit diagram
 
-![circuit](C:\Users\rscho\OneDrive\Desktop\IoT\Images\circuit.PNG)
+![circuit](Images\circuit.PNG)
 
 
 
