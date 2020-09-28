@@ -3,7 +3,6 @@
 # Wireless Home Automation
 
 
-
 ## Installing NodeMCU library
 
 * Go to File > Preferences. In the "Additional Boards Manager URLs" field, [copy](http://arduino.esp8266.com/stable/package_esp8266com_index.json)
@@ -44,8 +43,9 @@
 
 ## Circuit diagram
 
-![circuit](https://github.com/BlankRiser/Wireless-Home-Automation/blob/master/Images/circuit.PNG?raw=true)
-
+<p align="center">
+  <img width="460" height="300" src="https://github.com/BlankRiser/Wireless-Home-Automation/blob/master/Images/circuit.PNG">
+</p>
 
 
 ## Configuring [Blynk]([http://blynk.cc](http://blynk.cc/)) App
