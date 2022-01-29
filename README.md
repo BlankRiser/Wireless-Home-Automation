@@ -64,8 +64,8 @@
 
   ```c++
   char auth[] = "your_auth";
-  char ssid[] = "WiFi nAME";
-  char pass[] = "WiFi Passowrd";
+  char ssid[] = "WiFi_name";
+  char pass[] = "WiFi_passowrd";
   ```
 
   
